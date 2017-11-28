@@ -9,4 +9,4 @@ eureka:
     fetchRegistry: false
 
 server:
-  port: 3000   # HTTP (Tomcat) port
+  port: 3000 # HTTP (Tomcat) port
